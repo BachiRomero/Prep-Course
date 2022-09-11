@@ -1,0 +1,11 @@
+Variable: Esuna forma de almacenar el valor de algo para usarlo mas tarde.
+
+String: Son bloques de textos. Siempre se definiran entre comillas
+
+Funciones: Son tipos particulares de objetos , llamados callable objects.
+Argumento:es un valor proporcionado para obtener el resultado de la función.
+Return: La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función
+
+If: La sentencia condicional if se usa para tomar decisiones, este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False , y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+
+Valor Booleano: Un valor booleano representa un valor de verdad; es decir, TRUE o FALSE.
