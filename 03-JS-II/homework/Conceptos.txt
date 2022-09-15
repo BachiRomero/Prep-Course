@@ -1,0 +1,7 @@
+For: permite repetir una instrucción o una instrucción compuesta un número especificado de veces. El cuerpo de una instrucción for se ejecuta cero o más veces hasta que una condición opcional sea false
+
+&&: Es el operador Y (And). Esto evaluará mambas expresiones y devolverá verdadero si ambas expresiones son TRUE.
+
+||: Es el operador O (Or).Devolverá TRUE si una (o ambas) de las expresiones es TRUE.
+
+! : Es el operador NO (NOT). Devolverá el valor booleano opuesto de lo que se le pasa. 
