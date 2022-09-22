@@ -1,0 +1,10 @@
+Objetos: Los objetos en JavaScript son colecciones dinámicas de pares clave-valor. La clave es siempre una cadena y debe ser única en la colección. El valor puede ser una primitiva, un objeto o incluso una función.
+
+Propiedades: Es una asociación entre un nombre (o clave) y un valor.
+
+metodos: Cuando una propiedad es una función, esta lleva el nombre de "Metodo".
+
+Bucles for...in: Recorre cada clave del objeto y finaliza cuando se haya iterado todas las claves del  objeto.
+
+Notación de puntos vs notación de corchetes: Se pueden acceder a los valores de las propiedades de dos maneras. Por corchete o por punto. Por corchete es como llamar a un elemento de una matriz. Se puede llamar a cada clave envolviendolas con comillas. Por punto se lo llama utilizando el nombre del objeto, un punto y el nombre de la clave.
+
